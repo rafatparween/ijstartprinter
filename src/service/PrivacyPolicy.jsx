@@ -3,7 +3,7 @@ import React from 'react';
 const privacyPolicy = [
   {
     title: 'Privacy Policy',
-    content: `At PrintLiveSol, accessible from https://PrintLiveSol.com, one of our main priorities is the privacy of our visitors. This Privacy Policy document contains types of information that is collected and recorded by PrintLiveSol and how we use it.`,
+    content: `At printersolutiononline, accessible from https://printersolutiononline, one of our main priorities is the privacy of our visitors. This Privacy Policy document contains types of information that is collected and recorded by printersolutiononline and how we use it.`,
   },
   {
     title: 'Contact Us',
@@ -11,7 +11,7 @@ const privacyPolicy = [
   },
   {
     title: 'Scope',
-    content: `This Privacy Policy applies only to our online activities and is valid for visitors to our website with regards to the information that they shared and/or collect in PrintLiveSol. This policy is not applicable to any information collected offline or via channels other than this website.`,
+    content: `This Privacy Policy applies only to our online activities and is valid for visitors to our website with regards to the information that they shared and/or collect in printersolutiononline. This policy is not applicable to any information collected offline or via channels other than this website.`,
   },
   {
     title: 'Consent',
@@ -31,7 +31,7 @@ When you register for an Account, we may ask for your contact information, inclu
   },
   {
     title: 'Log Files',
-    content: `PrintLiveSol follows a standard procedure of using log files. These files log visitors when they visit websites. All hosting companies do this and a part of hosting services’ analytics. The information collected by log files include internet protocol (IP) addresses, browser type, Internet Service Provider (ISP), date and time stamp, referring/exit pages, and possibly the number of clicks. These are not linked to any information that is personally identifiable. The purpose of the information is for analysing trends, administering the site, tracking users’ movement on the website, and gathering demographic information.`,
+    content: `printersolutiononline follows a standard procedure of using log files. These files log visitors when they visit websites. All hosting companies do this and a part of hosting services’ analytics. The information collected by log files include internet protocol (IP) addresses, browser type, Internet Service Provider (ISP), date and time stamp, referring/exit pages, and possibly the number of clicks. These are not linked to any information that is personally identifiable. The purpose of the information is for analysing trends, administering the site, tracking users’ movement on the website, and gathering demographic information.`,
   },
   {
     title: 'Our Advertising Partners',
@@ -39,11 +39,11 @@ When you register for an Account, we may ask for your contact information, inclu
   },
   {
     title: 'Advertising Partners Privacy Policies',
-    content: `You may consult this list to find the Privacy Policy for each of the advertising partners of PrintLiveSol.\n\nThird-party ad servers or ad networks uses technologies like cookies, JavaScript, or Web Beacons that are used in their respective advertisements and links that appear on PrintLiveSol, which are sent directly to users’ browser. They automatically receive your IP address when this occurs. These technologies are used to measure the effectiveness of their advertising campaigns and/or to personalize the advertising content that you see on websites that you visit.\n\nNote that PrintLiveSol has no access to or control over these cookies that are used by third-party advertisers.`,
+    content: `You may consult this list to find the Privacy Policy for each of the advertising partners of printersolutiononline.\n\nThird-party ad servers or ad networks uses technologies like cookies, JavaScript, or Web Beacons that are used in their respective advertisements and links that appear on printersolutiononline, which are sent directly to users’ browser. They automatically receive your IP address when this occurs. These technologies are used to measure the effectiveness of their advertising campaigns and/or to personalize the advertising content that you see on websites that you visit.\n\nNote that printersolutiononline has no access to or control over these cookies that are used by third-party advertisers.`,
   },
   {
     title: 'Third Party Privacy Policies',
-    content: `PrintLiveSol’s Privacy Policy does not apply to other advertisers or websites. Thus, we are advising you to consult the respective Privacy Policies of these third-party ad servers for more detailed information. It may include their practices and instructions about how to opt-out of certain options.\n\nYou can choose to disable cookies through your individual browser options. To know more detailed information about cookie management with specific web browsers, it can be found at the browsers’ respective websites.`,
+    content: `printersolutiononline’s Privacy Policy does not apply to other advertisers or websites. Thus, we are advising you to consult the respective Privacy Policies of these third-party ad servers for more detailed information. It may include their practices and instructions about how to opt-out of certain options.\n\nYou can choose to disable cookies through your individual browser options. To know more detailed information about cookie management with specific web browsers, it can be found at the browsers’ respective websites.`,
   },
   {
     title: 'CCPA Privacy Rights (Do Not Sell My Personal Information)',
@@ -55,7 +55,7 @@ When you register for an Account, we may ask for your contact information, inclu
   },
   {
     title: 'Children’s Information',
-    content: `Another part of our priority is adding protection for children while using the internet. We encourage parents and guardians to observe, participate in, and/or monitor and guide their online activity.\n\nPrintLiveSol does not knowingly collect any Personal Identifiable Information from children under the age of 13. If you think that your child provided this kind of information on our website, we strongly encourage you to contact us immediately and we will do our best efforts to promptly remove such information from our records.`,
+    content: `Another part of our priority is adding protection for children while using the internet. We encourage parents and guardians to observe, participate in, and/or monitor and guide their online activity.\n\nprintersolutiononline does not knowingly collect any Personal Identifiable Information from children under the age of 13. If you think that your child provided this kind of information on our website, we strongly encourage you to contact us immediately and we will do our best efforts to promptly remove such information from our records.`,
   },
 ];
 
@@ -91,3 +91,4 @@ const PrivacyPolicy = () => {
 };
 
 export default PrivacyPolicy;
+ 

@@ -10,8 +10,12 @@ import PrivacyPolicy from './service/PrivacyPolicy';
 
 const App = () => {
   return (
+    <>
+    
+
     <Router>
-      <Navbar />
+    <Navbar />
+     
       <Routes>
         <Route path="/" element={<Home />} />
         <Route path="/printeroffline" element={<PrinterOffline />} />
@@ -21,6 +25,7 @@ const App = () => {
       </Routes>
       <Footer />
     </Router>
+    </>
   );
 };
 
